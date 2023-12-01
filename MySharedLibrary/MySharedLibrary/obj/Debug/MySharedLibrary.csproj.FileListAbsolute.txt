@@ -1,0 +1,12 @@
+D:\practic exercise\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+D:\practic exercise\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+D:\practic exercise\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+D:\practic exercise\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+D:\practic exercise\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+D:\practic exercise\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+D:\practic exercise\assignment25\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb

@@ -1,0 +1,10 @@
+D:\practic exercise\assignment25\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\practic exercise\assignment25\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\practic exercise\assignment25\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\practic exercise\assignment25\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\practic exercise\assignment25\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\practic exercise\assignment25\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\practic exercise\assignment25\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment25\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\practic exercise\assignment25\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\practic exercise\assignment25\MainApp\MainApp\obj\Debug\MainApp.pdb
